@@ -1,0 +1,1 @@
+First group project which took part in our forth week at <Academia de Código_> #59 Bootcamp @ Lisboa. We were challenged to create a game applying the technologies we had learned the previous weeks. Deadline for the project deployment: 10 nights!
